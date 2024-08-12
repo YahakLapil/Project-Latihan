@@ -1,0 +1,18 @@
+@font-face {
+    font-family: poppins;
+    src: url(Poppins/Poppins-BoldItalic.ttf);
+}
+
+@font-face {
+    font-family: poppins1;
+    src: url(Poppins/Poppins-Light.ttf);
+}
+
+.description h1 {
+    font-family: poppins;
+    font-size: 3rem;
+}
+
+.navigasi ul li a {
+    font-family: poppins1;
+}
