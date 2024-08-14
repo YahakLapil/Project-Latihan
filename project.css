@@ -1,0 +1,17 @@
+@font-face {
+    font-family: poppins;
+    src: url(Poppins/Poppins-BoldItalic.ttf);
+}
+
+@font-face {
+    font-family: poppins1;
+    src: url(Poppins/Poppins-Light.ttf);
+}
+
+.project h1 {
+    font-family: poppins;
+}
+
+.project p {
+    font-family: poppins1;
+}
