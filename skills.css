@@ -1,0 +1,22 @@
+@font-face {
+    font-family: poppins;
+    src: url(Poppins/Poppins-BoldItalic.ttf);
+}
+
+@font-face {
+    font-family: poppins1;
+    src: url(Poppins/Poppins-Light.ttf);
+}
+
+.btn {
+    border-radius: 50%;
+    font-family: poppins1;
+}
+
+.btn:hover {
+    color: rgb(128, 120, 120);
+}
+
+footer, .skill h1, .base, .framework, .database, .other {
+    font-family: poppins;
+}
